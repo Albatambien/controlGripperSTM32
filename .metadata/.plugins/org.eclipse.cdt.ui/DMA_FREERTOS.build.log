@@ -1,0 +1,10 @@
+08:14:05 **** Incremental Build of configuration Debug for project DMA_FREERTOS ****
+make -j12 all 
+arm-none-eabi-size   DMA_FREERTOS.elf 
+   text	   data	    bss	    dec	    hex	filename
+  24300	    124	  20804	  45228	   b0ac	DMA_FREERTOS.elf
+Finished building: default.size.stdout
+ 
+
+08:14:05 Build Finished. 0 errors, 0 warnings. (took 506ms)
+

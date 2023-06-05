@@ -1,0 +1,15 @@
+comm
+gripperFlag
+artFlag
+stopFlag
+adcVal
+task_adcGripper
+adcGripper
+task_adcArt
+adcArt
+okFlags
+gripperOK
+artOK
+stopOK
+objectHeld
+check

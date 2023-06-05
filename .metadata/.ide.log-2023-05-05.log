@@ -1,0 +1,139 @@
+2023-05-05 01:39:21,036 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+2023-05-05 01:39:21,051 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.ip.gpio.gui.ParamContainer.isLabelEditable(ParamContainer.java:259)
+2023-05-05 01:39:21,052 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.ip.gpio.gui.ParamContainer.createPanel(ParamContainer.java:120)
+2023-05-05 01:39:21,055 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.ip.gpio.gui.ParamContainer.update(ParamContainer.java:173)
+2023-05-05 01:39:21,057 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.ip.gpio.gui.GpioTablePanel.propertyChange(GpioTablePanel.java:485)
+2023-05-05 01:39:21,059 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:341)
+2023-05-05 01:39:21,061 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:333)
+2023-05-05 01:39:21,062 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.mxsystem.MxSystem.propertyChange(MxSystem.java:474)
+2023-05-05 01:39:21,064 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:341)
+2023-05-05 01:39:21,067 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:333)
+2023-05-05 01:39:21,068 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:266)
+2023-05-05 01:39:21,071 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:54)
+2023-05-05 01:39:21,072 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcu.Mcu.propertyChange(Mcu.java:1722)
+2023-05-05 01:39:21,074 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.fire(PropertyChangeSupport.java:341)
+2023-05-05 01:39:21,075 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:333)
+2023-05-05 01:39:21,077 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.beans.PropertyChangeSupport.firePropertyChange(PropertyChangeSupport.java:266)
+2023-05-05 01:39:21,079 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.util.MXPropertyChangeSupport.firePropertyChange(MXPropertyChangeSupport.java:54)
+2023-05-05 01:39:21,081 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.mcu.Pin.setPinLabel(Pin.java:2103)
+2023-05-05 01:39:21,083 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at com.st.microxplorer.plugins.pinoutconfig.gui.PinOutPanel$InputLabel$2.focusLost(PinOutPanel.java:2195)
+2023-05-05 01:39:21,085 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.AWTEventMulticaster.focusLost(AWTEventMulticaster.java:238)
+2023-05-05 01:39:21,086 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.AWTEventMulticaster.focusLost(AWTEventMulticaster.java:237)
+2023-05-05 01:39:21,088 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processFocusEvent(Component.java:6527)
+2023-05-05 01:39:21,089 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.processEvent(Component.java:6391)
+2023-05-05 01:39:21,091 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.processEvent(Container.java:2263)
+2023-05-05 01:39:21,092 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:5011)
+2023-05-05 01:39:21,094 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+2023-05-05 01:39:21,096 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+2023-05-05 01:39:21,097 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.KeyboardFocusManager.redispatchEvent(KeyboardFocusManager.java:1950)
+2023-05-05 01:39:21,100 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.DefaultKeyboardFocusManager.typeAheadAssertions(DefaultKeyboardFocusManager.java:1059)
+2023-05-05 01:39:21,102 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.DefaultKeyboardFocusManager.dispatchEvent(DefaultKeyboardFocusManager.java:725)
+2023-05-05 01:39:21,103 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEventImpl(Component.java:4892)
+2023-05-05 01:39:21,105 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Container.dispatchEventImpl(Container.java:2321)
+2023-05-05 01:39:21,106 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.Component.dispatchEvent(Component.java:4843)
+2023-05-05 01:39:21,108 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEventImpl(EventQueue.java:772)
+2023-05-05 01:39:21,109 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:721)
+2023-05-05 01:39:21,110 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$4.run(EventQueue.java:715)
+2023-05-05 01:39:21,112 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2023-05-05 01:39:21,115 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2023-05-05 01:39:21,117 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:95)
+2023-05-05 01:39:21,119 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:745)
+2023-05-05 01:39:21,120 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue$5.run(EventQueue.java:743)
+2023-05-05 01:39:21,122 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.AccessController.doPrivileged(Native Method)
+2023-05-05 01:39:21,125 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.base/java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:85)
+2023-05-05 01:39:21,126 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventQueue.dispatchEvent(EventQueue.java:742)
+2023-05-05 01:39:21,128 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:203)
+2023-05-05 01:39:21,131 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:124)
+2023-05-05 01:39:21,134 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:113)
+2023-05-05 01:39:21,136 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:109)
+2023-05-05 01:39:21,138 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+2023-05-05 01:39:21,140 [ERROR] LogOutputStream:75 - [STDERR_REDIRECT] 	at java.desktop/java.awt.EventDispatchThread.run(EventDispatchThread.java:90)
+2023-05-05 01:42:39,655 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 452707112 Bytes (759169024)
+2023-05-05 01:42:42,115 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 369397280 Bytes (759169024)
+2023-05-05 01:42:42,479 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 486998784 Bytes (759169024)
+2023-05-05 01:42:42,886 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-05-05 01:42:42,887 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-05-05 01:42:42,887 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-05-05 01:42:42,889 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-05-05 01:42:43,204 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\license.tmp_save
+2023-05-05 01:42:43,335 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\license.tmp
+2023-05-05 01:42:43,385 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\gpio.tmp_save
+2023-05-05 01:42:43,512 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\gpio.tmp
+2023-05-05 01:42:43,527 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_it.c_save
+2023-05-05 01:42:43,876 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_it.c
+2023-05-05 01:42:43,884 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_it.h_save
+2023-05-05 01:42:43,986 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_it.h
+2023-05-05 01:42:44,011 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_hal_msp.c_save
+2023-05-05 01:42:44,158 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_hal_msp.c
+2023-05-05 01:42:44,166 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\system.tmp_save
+2023-05-05 01:42:44,258 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\system.tmp
+2023-05-05 01:42:44,271 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-05-05 01:42:44,386 [INFO] CodeEngine:335 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_hal_conf.h
+2023-05-05 01:42:44,424 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\main.h_save
+2023-05-05 01:42:44,551 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\main.h
+2023-05-05 01:42:44,561 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\main.c_save
+2023-05-05 01:42:44,728 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\main.c
+2023-05-05 01:42:45,801 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 270mS.
+2023-05-05 01:42:45,806 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-05-05 01:42:46,326 [INFO] ConfigFileManager:1483 - The Die is : DIE410
+2023-05-05 01:42:48,184 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2378mS.
+2023-05-05 01:42:48,186 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-05-05 01:42:48,190 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-05-05 01:45:20,026 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 440132080 Bytes (1073741824)
+2023-05-05 01:45:20,406 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-05-05 01:45:20,406 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-05-05 01:45:20,406 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-05-05 01:45:20,408 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-05-05 01:45:20,691 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\license.tmp_save
+2023-05-05 01:45:20,794 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\license.tmp
+2023-05-05 01:45:20,818 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\gpio.tmp_save
+2023-05-05 01:45:20,923 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\gpio.tmp
+2023-05-05 01:45:20,948 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_it.c_save
+2023-05-05 01:45:21,064 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_it.c
+2023-05-05 01:45:21,072 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_it.h_save
+2023-05-05 01:45:21,171 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_it.h
+2023-05-05 01:45:21,194 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_hal_msp.c_save
+2023-05-05 01:45:21,339 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_hal_msp.c
+2023-05-05 01:45:21,345 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\system.tmp_save
+2023-05-05 01:45:21,439 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\system.tmp
+2023-05-05 01:45:21,452 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-05-05 01:45:21,559 [INFO] CodeEngine:335 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_hal_conf.h
+2023-05-05 01:45:21,598 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\main.h_save
+2023-05-05 01:45:21,704 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\main.h
+2023-05-05 01:45:21,713 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\main.c_save
+2023-05-05 01:45:21,864 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\main.c
+2023-05-05 01:45:22,630 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 202mS.
+2023-05-05 01:45:22,635 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-05-05 01:45:22,995 [INFO] ConfigFileManager:1483 - The Die is : DIE410
+2023-05-05 01:45:24,850 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2215mS.
+2023-05-05 01:45:24,851 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-05-05 01:45:24,855 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-05-05 01:51:17,287 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 823059696 Bytes (1073741824)
+2023-05-05 01:51:17,730 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-05-05 01:51:17,731 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-05-05 01:51:17,731 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-05-05 01:51:17,732 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-05-05 01:51:18,036 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\license.tmp_save
+2023-05-05 01:51:18,134 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\license.tmp
+2023-05-05 01:51:18,157 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\gpio.tmp_save
+2023-05-05 01:51:18,258 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\gpio.tmp
+2023-05-05 01:51:18,272 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_it.c_save
+2023-05-05 01:51:18,377 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_it.c
+2023-05-05 01:51:18,385 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_it.h_save
+2023-05-05 01:51:18,485 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_it.h
+2023-05-05 01:51:18,507 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_hal_msp.c_save
+2023-05-05 01:51:18,644 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\stm32f1xx_hal_msp.c
+2023-05-05 01:51:18,650 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\system.tmp_save
+2023-05-05 01:51:18,746 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\MXTmpFiles\system.tmp
+2023-05-05 01:51:18,761 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_hal_conf.h_save
+2023-05-05 01:51:18,869 [INFO] CodeEngine:335 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\stm32f1xx_hal_conf.h
+2023-05-05 01:51:18,905 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\main.h_save
+2023-05-05 01:51:19,024 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Inc\main.h
+2023-05-05 01:51:19,032 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\main.c_save
+2023-05-05 01:51:19,174 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\basico1\Core\Src\main.c
+2023-05-05 01:51:19,947 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 216mS.
+2023-05-05 01:51:19,953 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-05-05 01:51:20,305 [INFO] ConfigFileManager:1483 - The Die is : DIE410
+2023-05-05 01:51:22,234 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2281mS.
+2023-05-05 01:51:22,235 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-05-05 01:51:22,239 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

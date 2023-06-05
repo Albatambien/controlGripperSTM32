@@ -1,0 +1,10 @@
+17:13:54 **** Incremental Build of configuration Debug for project proyecto1_FREERTOS_LED ****
+make -j12 all 
+arm-none-eabi-size   proyecto1_FREERTOS_LED.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13604	    124	  18052	  31780	   7c24	proyecto1_FREERTOS_LED.elf
+Finished building: default.size.stdout
+ 
+
+17:13:54 Build Finished. 0 errors, 0 warnings. (took 469ms)
+

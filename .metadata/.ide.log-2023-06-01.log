@@ -1,0 +1,1622 @@
+2023-06-01 08:05:45,127 [INFO] MainUpdater:2854 - connection check result : 10
+2023-06-01 08:05:45,302 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2023-06-01 08:05:45,313 [INFO] MultiScanPanel:200 - Auto-refresh data requested => check proxy status ongoing
+2023-06-01 08:05:45,318 [INFO] FinderPluginLoader:95 - Searching for filters in installed packs
+2023-06-01 08:05:46,504 [INFO] LoadUrlFilesThread:185 - End of LoadServerUrlFiles without Thread
+2023-06-01 08:05:46,505 [INFO] DetailPanel:341 - Set advertising image to C:/Users/mfern/STM32Cube/Repository/\en.prom-stm32h5-mcu-finder.jpg
+2023-06-01 08:07:00,231 [INFO] MainUpdater:2854 - connection check result : 10
+2023-06-01 08:07:00,232 [INFO] MainUpdater:2854 - connection check result : 10
+2023-06-01 08:07:00,313 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-06-01 08:07:00,314 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-06-01 08:07:00,354 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-06-01 08:07:00,355 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-06-01 08:07:00,355 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-06-01 08:07:00,359 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-06-01 08:07:00,374 [WARN] IpParametersView:150 - Warning: This peripheral hasn't parameters
+2023-06-01 08:07:00,381 [WARN] MainPanel:257 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-06-01 08:07:00,395 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 401828592 Bytes (864026624)
+2023-06-01 08:07:00,396 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-06-01 08:07:00,396 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-06-01 08:07:00,396 [INFO] OpenFileManager:308 - Change cursor
+2023-06-01 08:07:00,413 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-06-01 08:07:00,466 [INFO] Mcu:1937 - Initializing MCU STM32F411CEUx STM32F411CEUx 
+2023-06-01 08:07:00,468 [INFO] Mcu:1950 - No CPN specified => set CPN to STM32F411CEU6
+2023-06-01 08:07:01,081 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-06-01 08:07:01,209 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.ThirdPartyNb) in loaded IOC file
+2023-06-01 08:07:01,209 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.PinsNb) in loaded IOC file
+2023-06-01 08:07:01,209 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) Unable to find key (Mcu.IPNb) in loaded IOC file
+2023-06-01 08:07:01,265 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-06-01 08:07:01,266 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-06-01 08:07:01,266 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-06-01 08:07:01,266 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-06-01 08:07:01,266 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-06-01 08:07:01,268 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:Audio HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,268 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:Audio HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,268 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:CDC HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,268 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:CDC HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,268 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:MSC HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,268 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:MSC HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,268 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:HID HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,268 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:HID HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,268 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:MTP HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,268 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:MTP HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,272 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,273 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,273 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,273 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,273 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,273 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,273 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,273 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:Audio HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:Audio HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:CDC HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:CDC HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:DFU HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:DFU HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:HID HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:HID HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:Custom HID HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:Custom HID HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:MSC HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,275 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:MSC HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 08:07:01,280 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-06-01 08:07:01,419 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-06-01 08:07:01,906 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 332980616 Bytes (864026624)
+2023-06-01 08:07:01,924 [WARN] ThirdParty:833 - waiting for thirdparty lock release [change project]
+2023-06-01 08:07:01,925 [INFO] ThirdParty:835 - entering critical section [change project]
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ISPU 1.1.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-GNSS1 6.0.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F4 1.1.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics LIBJPEG 8.0.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SMBUS 2.1.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :wolfSSL I-CUBE-wolfSSL 5.6.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-FREERTOS 1.0.1
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.3
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-F7 1.1.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOUCHGFX 4.21.4
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-MEMS1 9.6.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.0
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-MOTENV1 4.3.1
+2023-06-01 08:07:01,925 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-SNS-FLIGHT1 5.0.1
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALGOBUILD 1.3.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE1 6.2.4
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L5 1.1.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :emotas I-CUBE-CANOPEN 1.1.3
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G0 1.1.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLEMGR 2.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AI 8.0.1
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SUBG2 5.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC4 3.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics STM32_WPAN 1.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-G4 2.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-H7 3.1.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-TOF1 3.3.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-DISPLAY 3.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-SIGFOX1 3.2.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 1.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-NFC7 1.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WL 1.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-EEPRMA1 4.1.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :portGmbH I-Cube-SoM-uGOAL 1.1.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-ALS 1.0.1
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 1.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-WB 1.1.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :SEGGER I-CUBE-embOS 1.3.1
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-AZRTOS-L4 2.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics ThreadX 0.0.2
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :WES I-CUBE-Cesium 1.3.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics FP-ATR-ASTRA1 2.0.0
+2023-06-01 08:07:01,926 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2023-06-01 08:07:01,927 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-SFXS2LP1 4.0.0
+2023-06-01 08:07:01,927 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics X-CUBE-BLE2 3.3.0
+2023-06-01 08:07:01,927 [INFO] ThirdParty:1030 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2023-06-01 08:07:01,927 [INFO] ThirdParty:841 - exiting critical section [change project]
+2023-06-01 08:07:02,042 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-06-01 08:07:02,044 [INFO] PinOutPanel:1499 - setPackage(STM32F411CEUx,UFQFPN48)
+2023-06-01 08:07:02,208 [INFO] UtilMem:75 - Before build in PCC Used Memory: 487188328 Bytes (864026624)
+2023-06-01 08:07:02,336 [INFO] UtilMem:75 - After build in PCC Used Memory: 529131368 Bytes (864026624)
+2023-06-01 08:07:02,358 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,358 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,358 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,358 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,359 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,359 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,359 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,359 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,359 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,359 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,359 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,359 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,359 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,359 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,360 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,360 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,360 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,360 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,360 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,360 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,360 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,361 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,361 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,361 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,361 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,361 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,361 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,362 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,362 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,362 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,362 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,362 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,363 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,363 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,363 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,363 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,363 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,363 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,363 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,364 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,364 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,364 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,364 [INFO] IPUIPlugin:80 - create IPUIPlugin
+2023-06-01 08:07:02,369 [INFO] ApiDbMcu:507 - Load IP Config File for PDM2PCM
+2023-06-01 08:07:02,385 [INFO] CADModel:165 - CPN selected for project levelSTM32F411CEU6
+2023-06-01 08:07:02,385 [INFO] CADModel:114 - Register for checkConnection events
+2023-06-01 08:07:02,435 [INFO] OpenFileManager:328 - Restore cursor
+2023-06-01 08:07:02,700 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 596240232 Bytes (864026624)
+2023-06-01 08:07:02,751 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 610920296 Bytes (864026624)
+2023-06-01 08:07:03,000 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-06-01 08:07:03,000 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-06-01 08:07:03,006 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-06-01 08:07:03,164 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\license.tmp_save
+2023-06-01 08:07:03,245 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\license.tmp
+2023-06-01 08:07:03,254 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2023-06-01 08:07:03,382 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\stm32f4xx_it.c
+2023-06-01 08:07:03,384 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2023-06-01 08:07:03,431 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\stm32f4xx_it.h
+2023-06-01 08:07:03,497 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2023-06-01 08:07:03,601 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2023-06-01 08:07:03,603 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\system.tmp_save
+2023-06-01 08:07:03,647 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\system.tmp
+2023-06-01 08:07:03,653 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-06-01 08:07:03,703 [INFO] CodeEngine:335 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2023-06-01 08:07:03,719 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\main.h_save
+2023-06-01 08:07:03,774 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\main.h
+2023-06-01 08:07:03,778 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\main.c_save
+2023-06-01 08:07:03,848 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\main.c
+2023-06-01 08:07:04,336 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 133mS.
+2023-06-01 08:07:04,341 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-06-01 08:07:04,503 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-06-01 08:07:04,505 [INFO] ApiDbMcu:507 - Load IP Config File for FATFS
+2023-06-01 08:07:04,508 [INFO] ApiDbMcu:507 - Load IP Config File for FREERTOS
+2023-06-01 08:07:04,510 [INFO] ApiDbMcu:507 - Load IP Config File for LIBJPEG
+2023-06-01 08:07:04,514 [INFO] ApiDbMcu:507 - Load IP Config File for MBEDTLS
+2023-06-01 08:07:04,520 [INFO] ApiDbMcu:507 - Load IP Config File for USB_DEVICE
+2023-06-01 08:07:04,523 [INFO] ApiDbMcu:507 - Load IP Config File for USB_HOST
+2023-06-01 08:07:11,362 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 7021mS.
+2023-06-01 08:07:11,363 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-06-01 08:07:11,365 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-06-01 08:07:12,145 [INFO] McuFinderGlobals:66 - Set McuFinderConnectedMode to true
+2023-06-01 08:07:12,147 [INFO] ApiDb:448 - Save user favorites file C:\Users\mfern/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2023-06-01 08:07:12,147 [INFO] ApiDb:452 - User favorites MCUs=[]
+2023-06-01 08:11:24,910 [INFO] ParamManager:886 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2023-06-01 08:11:24,927 [INFO] ParamManager:886 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2023-06-01 08:11:24,943 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,955 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,958 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:24,964 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,010 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:11:25,061 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:11:25,090 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,091 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,103 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,121 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:25,131 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,042 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,043 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,043 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,043 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,056 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,101 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,101 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,101 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,101 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,102 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,102 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,102 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,102 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,102 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,102 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,102 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,102 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,102 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,102 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,116 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,149 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,172 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,184 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:11:26,200 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:10,142 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,459x303,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:12:12,735 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,735 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,735 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,738 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,751 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,753 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,766 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,767 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,767 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,767 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,769 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:12,784 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:12:14,550 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,550 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,550 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,550 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,550 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,551 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:14,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,374 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:12:32,388 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,398 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,398 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,399 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:32,410 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,544 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:12:35,565 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,575 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,576 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:35,584 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:54,553 [INFO] SpinnerEditorADC:65 - is string kkkk
+2023-06-01 08:12:57,967 [INFO] ParamManager:886 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2023-06-01 08:12:57,967 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:12:58,003 [INFO] ParamManager:886 - [Generic UI] PropertyChangeEvent: TAB_STATUS_CHANGED , "dont care", "never mind"
+2023-06-01 08:12:58,021 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:12:58,074 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:12:58,092 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,098 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,100 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,100 [INFO] ADCParametersView:116 -                Rank 1 : false
+2023-06-01 08:12:58,100 [INFO] ADCParametersView:116 -        *      Rank 2 : false
+2023-06-01 08:13:00,776 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:00,776 [INFO] ADCParametersView:116 -        *      Rank 2 : false
+2023-06-01 08:13:02,352 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:02,352 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,160 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:13:06,195 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,195 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,196 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,196 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,196 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,196 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,196 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,196 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,196 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,196 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,196 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,196 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,197 [INFO] ADCParametersView:116 -        *      Rank 2 : true
+2023-06-01 08:13:06,211 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,211 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:06,211 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,475 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:13:10,487 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,487 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,498 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,498 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,499 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,500 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,500 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,500 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,500 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,500 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,500 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,500 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,500 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:10,513 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,513 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:10,513 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,175 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:13:13,184 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,184 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,199 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:13:13,200 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:06,158 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:14:16,886 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:14:21,409 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,0x0,invalid,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2023-06-01 08:14:28,711 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,711 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,712 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,712 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,713 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,714 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,714 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,714 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,714 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,716 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,716 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,716 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,729 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,729 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,729 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,730 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,744 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,744 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,744 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,744 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,744 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,744 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,744 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,744 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,744 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,750 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,771 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,771 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,771 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,772 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,785 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,785 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,785 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,786 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,786 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,786 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,786 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,786 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,786 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,786 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,787 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,788 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,801 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,826 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,826 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,826 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,826 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,826 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,827 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,845 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,845 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,845 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,845 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,845 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,855 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,856 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,856 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,856 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,856 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,861 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,861 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,861 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,869 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,869 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,869 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,869 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,869 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,869 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,869 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,869 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,869 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,869 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,870 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,888 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,898 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:14:28,899 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,899 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:14:28,899 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,261 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,261 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,261 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,261 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,262 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,267 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,267 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,267 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,267 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,267 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,267 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,267 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,276 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,283 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,283 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,283 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,283 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,283 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,289 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,297 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,316 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,316 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,316 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,316 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,317 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,317 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,317 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,317 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,317 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,317 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,317 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,317 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,318 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,332 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,333 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,333 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,333 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,333 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,334 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,354 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,354 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,354 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,355 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,369 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,369 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,369 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,370 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,370 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,370 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,370 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,371 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,381 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,399 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,399 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,399 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,399 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,400 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,401 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,413 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,413 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,413 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,414 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,414 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,414 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,414 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,414 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,414 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,415 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,426 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,442 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,442 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,442 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,443 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,443 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 1 : true
+2023-06-01 08:17:45,444 [INFO] ADCParametersView:116 -                Rank 2 : true
+2023-06-01 08:21:30,634 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2023-06-01 08:21:30,834 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-06-01 08:21:30,863 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-06-01 08:21:50,192 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:21:50,192 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:21:50,192 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:22:12,923 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:22:12,924 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:22:12,924 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:22:15,094 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2023-06-01 08:22:15,094 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2023-06-01 08:23:35,663 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:23:35,663 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:23:35,663 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:23:35,663 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:23:35,663 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:23:35,663 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:23:35,719 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-06-01 08:23:37,886 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:23:37,886 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:23:37,886 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:23:37,886 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:23:37,886 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:23:37,886 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:23:41,677 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2023-06-01 08:23:41,678 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2023-06-01 08:24:00,062 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2023-06-01 08:24:00,062 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2023-06-01 08:24:13,937 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2023-06-01 08:24:13,937 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2023-06-01 08:24:33,192 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:24:33,192 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:24:33,192 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:24:33,192 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:24:33,192 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:24:33,192 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:24:33,192 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:24:33,192 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:24:33,192 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:24:48,382 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2023-06-01 08:24:48,382 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2023-06-01 08:25:52,826 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:25:52,826 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:25:52,827 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:25:52,827 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:25:52,827 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:25:52,827 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:25:52,827 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:25:52,827 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:25:52,827 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:25:52,827 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-06-01 08:25:52,827 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-06-01 08:25:52,827 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-06-01 08:26:09,046 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 468631200 Bytes (793772032)
+2023-06-01 08:26:09,907 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 549457248 Bytes (793772032)
+2023-06-01 08:26:40,386 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 499656952 Bytes (793772032)
+2023-06-01 08:26:40,699 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 527556432 Bytes (793772032)
+2023-06-01 08:29:02,521 [ERROR] RtosPanel:558 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2023-06-01 08:29:13,697 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 385703840 Bytes (793772032)
+2023-06-01 08:29:14,073 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 411537704 Bytes (793772032)
+2023-06-01 08:29:14,236 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-06-01 08:29:14,236 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-06-01 08:29:14,236 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: DMA
+2023-06-01 08:29:14,236 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-06-01 08:29:14,236 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-06-01 08:29:14,236 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2023-06-01 08:29:14,236 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-06-01 08:29:14,237 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-06-01 08:29:14,355 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\license.tmp_save
+2023-06-01 08:29:14,401 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\license.tmp
+2023-06-01 08:29:14,418 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\gpio.tmp_save
+2023-06-01 08:29:14,462 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\gpio.tmp
+2023-06-01 08:29:14,504 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-06-01 08:29:14,509 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2023-06-01 08:29:14,550 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2023-06-01 08:29:14,552 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-06-01 08:29:14,594 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp
+2023-06-01 08:29:14,596 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-06-01 08:29:14,636 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2023-06-01 08:29:14,639 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_typedefs.tmp_save
+2023-06-01 08:29:14,681 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_typedefs.tmp
+2023-06-01 08:29:14,684 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2023-06-01 08:29:14,728 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2023-06-01 08:29:14,731 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2023-06-01 08:29:14,773 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2023-06-01 08:29:14,776 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-06-01 08:29:14,820 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2023-06-01 08:29:14,822 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2023-06-01 08:29:14,926 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2023-06-01 08:29:14,928 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2023-06-01 08:29:14,970 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2023-06-01 08:29:14,977 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-06-01 08:29:14,981 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2023-06-01 08:29:15,029 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2023-06-01 08:29:15,033 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-06-01 08:29:15,076 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp
+2023-06-01 08:29:15,079 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-06-01 08:29:15,122 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2023-06-01 08:29:15,125 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_typedefs.tmp_save
+2023-06-01 08:29:15,166 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_typedefs.tmp
+2023-06-01 08:29:15,170 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2023-06-01 08:29:15,214 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2023-06-01 08:29:15,217 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2023-06-01 08:29:15,258 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2023-06-01 08:29:15,262 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-06-01 08:29:15,304 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2023-06-01 08:29:15,307 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2023-06-01 08:29:15,349 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2023-06-01 08:29:15,352 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2023-06-01 08:29:15,394 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2023-06-01 08:29:15,398 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2023-06-01 08:29:15,448 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2023-06-01 08:29:15,451 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\freertos.c_save
+2023-06-01 08:29:15,496 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\freertos.c
+2023-06-01 08:29:15,503 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\dma.tmp_save
+2023-06-01 08:29:15,546 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\dma.tmp
+2023-06-01 08:29:15,548 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\dma_GV.tmp_save
+2023-06-01 08:29:15,588 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\dma_GV.tmp
+2023-06-01 08:29:15,594 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2023-06-01 08:29:15,656 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\stm32f4xx_it.c
+2023-06-01 08:29:15,660 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2023-06-01 08:29:15,705 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\stm32f4xx_it.h
+2023-06-01 08:29:15,713 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2023-06-01 08:29:15,787 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2023-06-01 08:29:15,792 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\system.tmp_save
+2023-06-01 08:29:15,834 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\MXTmpFiles\system.tmp
+2023-06-01 08:29:15,835 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-06-01 08:29:15,881 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-06-01 08:29:15,887 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-06-01 08:29:15,938 [INFO] CodeEngine:335 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2023-06-01 08:29:15,955 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\main.h_save
+2023-06-01 08:29:16,001 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Inc\main.h
+2023-06-01 08:29:16,005 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\main.c_save
+2023-06-01 08:29:16,151 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\DMA_FREERTOS\Core\Src\main.c
+2023-06-01 08:29:16,891 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 183mS.
+2023-06-01 08:29:16,895 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-06-01 08:29:17,180 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-06-01 08:29:18,269 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1375mS.
+2023-06-01 08:29:18,270 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-06-01 08:29:18,275 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-06-01 23:59:55,651 [INFO] MainUpdater:2854 - connection check result : 10
+2023-06-01 23:59:55,652 [INFO] MainUpdater:2854 - connection check result : 10
+2023-06-01 23:59:55,816 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-06-01 23:59:55,817 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-06-01 23:59:55,890 [WARN] ThirdParty:871 - waiting for thirdparty lock release [close project]
+2023-06-01 23:59:55,891 [INFO] ThirdParty:873 - entering critical section [close project]
+2023-06-01 23:59:55,891 [INFO] ThirdParty:883 - exiting critical section [close project]
+2023-06-01 23:59:55,896 [INFO] PinOutPanel:1499 - setPackage(No Configuration,No Configuration)
+2023-06-01 23:59:55,922 [WARN] IpParametersView:150 - Warning: This peripheral hasn't parameters
+2023-06-01 23:59:55,951 [WARN] MainPanel:257 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2023-06-01 23:59:55,961 [INFO] UtilMem:75 - Begin LoadConfig() Used Memory: 353031512 Bytes (793772032)
+2023-06-01 23:59:55,962 [INFO] MicroXplorer:468 - Change Database Path : 
+2023-06-01 23:59:55,962 [INFO] MicroXplorer:498 - Change Database Version : DB.6.0.81
+2023-06-01 23:59:55,962 [INFO] OpenFileManager:308 - Change cursor
+2023-06-01 23:59:55,989 [INFO] RulesReader:64 - Compatibility file has been processed (293 Rules)
+2023-06-01 23:59:55,996 [INFO] Mcu:1937 - Initializing MCU STM32F411C(C-E)Ux STM32F411CEUx STM32F411CEU6
+2023-06-01 23:59:57,846 [INFO] Context:659 - Trying to add GPIOservice into a context  which must be forbidden
+2023-06-01 23:59:59,095 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2023-06-01 23:59:59,095 [INFO] RtosManager:555 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2023-06-01 23:59:59,095 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2023-06-01 23:59:59,095 [INFO] RtosManager:555 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2023-06-01 23:59:59,096 [WARN] ModelIntegratedComponent:184 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2023-06-01 23:59:59,101 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:Audio HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,101 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:Audio HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,101 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:CDC HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,101 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:CDC HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,101 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:MSC HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,101 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:MSC HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,101 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:HID HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,101 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:HID HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,101 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:MTP HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,101 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_HOST:1.0.0:STMicroelectronics:USB::USB Host:MTP HS::1.0:USB_HOST_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,109 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,110 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,111 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,111 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,111 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,111 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,111 [WARN] ModelIntegratedComponent:63 - No mode defined for component null
+2023-06-01 23:59:59,116 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:Audio HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,117 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:Audio HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,117 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:CDC HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,117 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:CDC HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,118 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:DFU HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,118 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:DFU HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,118 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:HID HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,118 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:HID HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,118 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:Custom HID HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,118 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:Custom HID HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,118 [WARN] ModelIntegratedComponent:182 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:MSC HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,118 [WARN] ModelIntegratedComponent:188 - Modes not found for component STMicroelectronics:USB_DEVICE:1.0.0:STMicroelectronics:USB::USB Device:MSC HS::1.0:USB_DEVICE_1_0_RESTRICTED_HS
+2023-06-01 23:59:59,124 [INFO] ThirdPartyModel:298 - Start build external matchings
+2023-06-01 23:59:59,521 [INFO] ThirdPartyModel:316 - End build external matchings
+2023-06-01 23:59:59,540 [INFO] RtosManager:919 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2023-06-01 23:59:59,547 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Instance) has Id (ADC1) currently not set
+2023-06-01 23:59:59,547 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Channel) has Id (ADC1) currently not set
+2023-06-01 23:59:59,547 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Direction) has Id (ADC1) currently not set
+2023-06-01 23:59:59,547 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (PeriphInc) has Id (ADC1) currently not set
+2023-06-01 23:59:59,547 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (MemInc) has Id (ADC1) currently not set
+2023-06-01 23:59:59,547 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (PeriphDataAlignment) has Id (ADC1) currently not set
+2023-06-01 23:59:59,548 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (MemDataAlignment) has Id (ADC1) currently not set
+2023-06-01 23:59:59,548 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Mode) has Id (ADC1) currently not set
+2023-06-01 23:59:59,548 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (Priority) has Id (ADC1) currently not set
+2023-06-01 23:59:59,548 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (DMA) : Parameter (FIFOMode) has Id (ADC1) currently not set
+2023-06-01 23:59:59,554 [INFO] ImportTextPane:194 - (OptionalMessage_ERROR) IP (RCC) : Parameter (RTCHSEDivFreq_Value) has invalid value (12500000)
+2023-06-01 23:59:59,937 [INFO] UtilMem:75 - End LoadConfig() Used Memory: 490412312 Bytes (793772032)

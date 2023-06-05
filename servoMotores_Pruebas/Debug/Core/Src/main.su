@@ -1,0 +1,11 @@
+../Core/Src/main.c:92:5:main	8	static
+../Core/Src/main.c:192:6:SystemClock_Config	88	static
+../Core/Src/main.c:234:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:304:13:MX_TIM2_Init	64	static
+../Core/Src/main.c:365:13:MX_DMA_Init	16	static
+../Core/Src/main.c:383:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:419:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/main.c:426:6:pushDetect	8	static
+../Core/Src/main.c:438:6:printLCD	56	static
+../Core/Src/main.c:475:6:gripperControl	16	static
+../Core/Src/main.c:536:6:Error_Handler	4	static,ignoring_inline_asm

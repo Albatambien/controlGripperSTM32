@@ -1,0 +1,16 @@
+main.c:133:5:main	1
+main.c:232:6:SystemClock_Config	3
+main.c:274:13:MX_ADC1_Init	4
+main.c:335:13:MX_TIM2_Init	7
+main.c:396:13:MX_DMA_Init	1
+main.c:414:13:MX_GPIO_Init	1
+main.c:437:6:HAL_ADC_ConvCpltCallback	1
+main.c:452:6:StartDefaultTask	1
+main.c:470:6:StartTaskADCGripper	1
+main.c:490:6:StartTaskADCArt	1
+main.c:510:6:StartTaskADC_ConversionComplete	1
+main.c:530:6:StartGripper	1
+main.c:550:6:StartArt	1
+main.c:571:6:StartTaskButton	2
+main.c:596:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:613:6:Error_Handler	1

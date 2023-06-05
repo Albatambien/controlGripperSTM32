@@ -1,0 +1,10 @@
+05:36:54 **** Incremental Build of configuration Debug for project servoMotores_FREERTOS ****
+make -j12 all 
+arm-none-eabi-size   servoMotores_FREERTOS.elf 
+   text	   data	    bss	    dec	    hex	filename
+  22392	    124	  20700	  43216	   a8d0	servoMotores_FREERTOS.elf
+Finished building: default.size.stdout
+ 
+
+05:36:55 Build Finished. 0 errors, 0 warnings. (took 455ms)
+

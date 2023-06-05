@@ -1,0 +1,10 @@
+06:46:42 **** Incremental Build of configuration Debug for project proyecto_ADC ****
+make -j12 all 
+arm-none-eabi-size   proyecto_ADC.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9532	     20	   1716	  11268	   2c04	proyecto_ADC.elf
+Finished building: default.size.stdout
+ 
+
+06:46:43 Build Finished. 0 errors, 0 warnings. (took 933ms)
+

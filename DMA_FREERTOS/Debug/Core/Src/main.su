@@ -1,0 +1,12 @@
+../Core/Src/main.c:105:5:main	8	static
+../Core/Src/main.c:193:6:SystemClock_Config	88	static
+../Core/Src/main.c:235:13:MX_ADC1_Init	24	static
+../Core/Src/main.c:294:13:MX_DMA_Init	16	static
+../Core/Src/main.c:312:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:328:6:HAL_ADC_ConvCpltCallback	16	static
+../Core/Src/main.c:342:6:StartDefaultTask	16	static
+../Core/Src/main.c:360:6:StartTaskADC1	16	static
+../Core/Src/main.c:379:6:StartTaskADC2	16	static
+../Core/Src/main.c:398:6:StartTaskADC_conversionComplete	16	static
+../Core/Src/main.c:418:6:HAL_TIM_PeriodElapsedCallback	16	static
+../Core/Src/main.c:435:6:Error_Handler	4	static,ignoring_inline_asm

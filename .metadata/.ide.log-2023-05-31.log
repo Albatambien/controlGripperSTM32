@@ -1,0 +1,215 @@
+2023-05-31 04:58:08,448 [INFO] LogOutputStream:77 - [STDOUT_REDIRECT] 
+2023-05-31 04:58:09,570 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 2309mS.
+2023-05-31 04:58:09,570 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-05-31 04:58:09,570 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-05-31 04:58:48,919 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 529741672 Bytes (791674880)
+2023-05-31 04:58:49,160 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-05-31 04:58:49,160 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-05-31 04:58:49,160 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-05-31 04:58:49,160 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-05-31 04:58:49,161 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-05-31 04:58:49,161 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-05-31 04:58:49,162 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-05-31 04:58:49,323 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\license.tmp_save
+2023-05-31 04:58:49,370 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\license.tmp
+2023-05-31 04:58:49,379 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\gpio.tmp_save
+2023-05-31 04:58:49,430 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\gpio.tmp
+2023-05-31 04:58:49,479 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-05-31 04:58:49,484 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2023-05-31 04:58:49,531 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2023-05-31 04:58:49,533 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-05-31 04:58:49,578 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp
+2023-05-31 04:58:49,580 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-05-31 04:58:49,622 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2023-05-31 04:58:49,625 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_typedefs.tmp_save
+2023-05-31 04:58:49,668 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_typedefs.tmp
+2023-05-31 04:58:49,671 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2023-05-31 04:58:49,716 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2023-05-31 04:58:49,718 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2023-05-31 04:58:49,761 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2023-05-31 04:58:49,763 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-05-31 04:58:49,806 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2023-05-31 04:58:49,808 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2023-05-31 04:58:49,851 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2023-05-31 04:58:49,853 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2023-05-31 04:58:49,896 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2023-05-31 04:58:49,904 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-05-31 04:58:49,910 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2023-05-31 04:58:49,955 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2023-05-31 04:58:49,959 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-05-31 04:58:50,003 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp
+2023-05-31 04:58:50,007 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-05-31 04:58:50,049 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2023-05-31 04:58:50,054 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_typedefs.tmp_save
+2023-05-31 04:58:50,096 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_typedefs.tmp
+2023-05-31 04:58:50,100 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2023-05-31 04:58:50,144 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2023-05-31 04:58:50,148 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2023-05-31 04:58:50,191 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2023-05-31 04:58:50,194 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-05-31 04:58:50,238 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2023-05-31 04:58:50,242 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2023-05-31 04:58:50,284 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2023-05-31 04:58:50,288 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2023-05-31 04:58:50,330 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2023-05-31 04:58:50,333 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2023-05-31 04:58:50,384 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2023-05-31 04:58:50,389 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\freertos.c_save
+2023-05-31 04:58:50,436 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\freertos.c
+2023-05-31 04:58:50,444 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2023-05-31 04:58:50,492 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_it.c
+2023-05-31 04:58:50,496 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2023-05-31 04:58:50,539 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\stm32f4xx_it.h
+2023-05-31 04:58:50,548 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2023-05-31 04:58:50,611 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2023-05-31 04:58:50,614 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\system.tmp_save
+2023-05-31 04:58:50,656 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\system.tmp
+2023-05-31 04:58:50,659 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-05-31 04:58:50,705 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-05-31 04:58:50,710 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-05-31 04:58:50,761 [INFO] CodeEngine:335 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2023-05-31 04:58:50,770 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-05-31 04:58:50,770 [WARN] CodeGenerator:3754 - IP not found : null
+2023-05-31 04:58:50,780 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\main.h_save
+2023-05-31 04:58:50,908 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\main.h
+2023-05-31 04:58:50,913 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\main.c_save
+2023-05-31 04:58:50,995 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\main.c
+2023-05-31 04:58:51,476 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 165mS.
+2023-05-31 04:58:51,477 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-05-31 04:58:51,631 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-05-31 04:58:52,930 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1453mS.
+2023-05-31 04:58:52,931 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 1mS.
+2023-05-31 04:58:52,937 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-05-31 04:59:08,367 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:08,369 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:08,369 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:08,369 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:08,369 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:08,369 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:08,369 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:08,369 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:08,369 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:08,369 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:08,369 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:08,369 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:18,309 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:18,310 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:18,310 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:18,310 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:18,310 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:18,310 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:18,310 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:18,310 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:18,310 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:23,070 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:23,070 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:23,070 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:23,070 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:23,070 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:23,070 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:27,621 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2023-05-31 04:59:27,621 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2023-05-31 04:59:44,971 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:44,971 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:44,971 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:44,971 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 04:59:44,971 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 04:59:44,971 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 04:59:47,629 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2023-05-31 04:59:47,630 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2023-05-31 05:00:00,556 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 05:00:00,557 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 05:00:00,557 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 05:00:00,557 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 05:00:00,557 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 05:00:00,557 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 05:01:15,131 [INFO] EditThreadDialog:704 - RAM SIZE (in KB): 128
+2023-05-31 05:01:15,131 [INFO] EditThreadDialog:706 - RAM SIZE (in words): 32768
+2023-05-31 05:02:34,111 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 05:02:34,111 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 05:02:34,111 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 05:02:34,111 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 05:02:34,111 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 05:02:34,111 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 05:02:34,111 [INFO] TasksAndQueuesTab:757 - Dynamic
+2023-05-31 05:02:34,111 [WARN] TasksAndQueuesTab:763 - 128 128
+2023-05-31 05:02:34,111 [WARN] TasksAndQueuesTab:775 - max value is: 3840.0
+2023-05-31 05:02:41,089 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 498565096 Bytes (869269504)
+2023-05-31 05:02:41,427 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 529888528 Bytes (869269504)
+2023-05-31 05:02:41,673 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2023-05-31 05:02:41,673 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2023-05-31 05:02:41,674 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2023-05-31 05:02:41,674 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2023-05-31 05:02:41,674 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2023-05-31 05:02:41,674 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2023-05-31 05:02:41,675 [INFO] CodeGenerator:793 - code generatio: config db path: C:\ST\STM32CubeIDE_1.12.1\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.8.1.202304191431\\db\
+2023-05-31 05:02:41,868 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\license.tmp_save
+2023-05-31 05:02:41,910 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\license.tmp
+2023-05-31 05:02:41,919 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\gpio.tmp_save
+2023-05-31 05:02:41,964 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\gpio.tmp
+2023-05-31 05:02:42,010 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-05-31 05:02:42,014 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2023-05-31 05:02:42,058 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2023-05-31 05:02:42,061 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-05-31 05:02:42,103 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp
+2023-05-31 05:02:42,106 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-05-31 05:02:42,151 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2023-05-31 05:02:42,155 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_typedefs.tmp_save
+2023-05-31 05:02:42,210 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_typedefs.tmp
+2023-05-31 05:02:42,214 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2023-05-31 05:02:42,264 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2023-05-31 05:02:42,267 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2023-05-31 05:02:42,308 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2023-05-31 05:02:42,310 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-05-31 05:02:42,354 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2023-05-31 05:02:42,357 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2023-05-31 05:02:42,399 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2023-05-31 05:02:42,401 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2023-05-31 05:02:42,443 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2023-05-31 05:02:42,449 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2023-05-31 05:02:42,455 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_inc.tmp_save
+2023-05-31 05:02:42,495 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_inc.tmp
+2023-05-31 05:02:42,499 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp_save
+2023-05-31 05:02:42,540 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelInit.tmp
+2023-05-31 05:02:42,543 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp_save
+2023-05-31 05:02:42,584 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_kernelStart.tmp
+2023-05-31 05:02:42,588 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_typedefs.tmp_save
+2023-05-31 05:02:42,630 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_typedefs.tmp
+2023-05-31 05:02:42,632 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_vars.tmp_save
+2023-05-31 05:02:42,683 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_vars.tmp
+2023-05-31 05:02:42,687 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_pfp.tmp_save
+2023-05-31 05:02:42,729 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_pfp.tmp
+2023-05-31 05:02:42,732 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp_save
+2023-05-31 05:02:42,777 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_obj_creat.tmp
+2023-05-31 05:02:42,780 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_default_thread.tmp_save
+2023-05-31 05:02:42,824 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_default_thread.tmp
+2023-05-31 05:02:42,827 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_threads.tmp_save
+2023-05-31 05:02:42,869 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\rtos_threads.tmp
+2023-05-31 05:02:42,873 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\FreeRTOSConfig.h_save
+2023-05-31 05:02:42,924 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\FreeRTOSConfig.h
+2023-05-31 05:02:42,928 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\freertos.c_save
+2023-05-31 05:02:42,973 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\freertos.c
+2023-05-31 05:02:42,982 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_it.c_save
+2023-05-31 05:02:43,030 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_it.c
+2023-05-31 05:02:43,033 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\stm32f4xx_it.h_save
+2023-05-31 05:02:43,077 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\stm32f4xx_it.h
+2023-05-31 05:02:43,084 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_hal_msp.c_save
+2023-05-31 05:02:43,145 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_hal_msp.c
+2023-05-31 05:02:43,147 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\system.tmp_save
+2023-05-31 05:02:43,189 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\MXTmpFiles\system.tmp
+2023-05-31 05:02:43,193 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2023-05-31 05:02:43,238 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\stm32f4xx_hal_timebase_tim.c
+2023-05-31 05:02:43,244 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h_save
+2023-05-31 05:02:43,303 [INFO] CodeEngine:335 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\stm32f4xx_hal_conf.h
+2023-05-31 05:02:43,316 [WARN] IPConfigManager:3431 - IP not found : TIM
+2023-05-31 05:02:43,316 [WARN] CodeGenerator:3754 - IP not found : null
+2023-05-31 05:02:43,321 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\main.h_save
+2023-05-31 05:02:43,431 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Inc\main.h
+2023-05-31 05:02:43,438 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\main.c_save
+2023-05-31 05:02:43,548 [INFO] CodeEngine:279 - Generated code: C:\Users\mfern\STM32CubeIDE\workspace_1.12.1\servoMotores_FREERTOS\Core\Src\main.c
+2023-05-31 05:02:44,076 [INFO] ProjectBuilder:2996 - Time for Copy HAL[1] : 183mS.
+2023-05-31 05:02:44,079 [INFO] ProjectBuilder:4304 - Project Generator version: 3.19.2
+2023-05-31 05:02:44,235 [INFO] ConfigFileManager:1483 - The Die is : DIE431
+2023-05-31 05:02:45,468 [INFO] ProjectBuilder:4505 - Time for Generating toolchain IDE Files: 1388mS.
+2023-05-31 05:02:45,468 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.
+2023-05-31 05:02:45,476 [INFO] ProjectBuilder:2867 - Time for Copy CMSIS : 0mS.

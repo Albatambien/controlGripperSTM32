@@ -1,0 +1,14 @@
+main.c:129:5:main	1
+main.c:227:6:SystemClock_Config	3
+main.c:274:13:MX_TIM2_Init	7
+main.c:337:13:MX_GPIO_Init	1
+main.c:359:6:read	1
+main.c:372:6:StartGripperTask	3
+main.c:404:6:StartArtTask	3
+main.c:436:6:StopMotorMov	1
+main.c:454:6:StartReceiveJetson	9
+main.c:511:6:StartEmStop	2
+main.c:534:6:StartCheckButton	2
+main.c:558:6:StartTransmitJEtson	5
+main.c:612:6:HAL_TIM_PeriodElapsedCallback	2
+main.c:629:6:Error_Handler	1

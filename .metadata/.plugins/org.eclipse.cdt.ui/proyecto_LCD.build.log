@@ -1,0 +1,10 @@
+09:11:54 **** Incremental Build of configuration Debug for project proyecto_LCD ****
+make -j12 all 
+arm-none-eabi-size   proyecto_LCD.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9444	    120	   1672	  11236	   2be4	proyecto_LCD.elf
+Finished building: default.size.stdout
+ 
+
+09:11:55 Build Finished. 0 errors, 0 warnings. (took 895ms)
+
